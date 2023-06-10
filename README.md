@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Daslaw/multi_step_form.git)
-- Live Site URL:(https://daslaw.github.io/multi_step_form/)
+- Solution URL: (https://github.com/Daslaw/e-commerce.git)
+- Live Site URL:(https://daslaw.github.io/e-commerce/)
 
 ## My process
 
